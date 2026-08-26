@@ -1,3 +1,4 @@
+
 # Contacts Backend
 
 A self-contained Contacts REST API built with **FastAPI** + **SQLAlchemy**, backed by an
